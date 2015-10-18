@@ -24,13 +24,13 @@ repositories {
 dependencies {
     // ... support library ...
     // ...
-    compile 'com.github.oxoooo:touch-image-view:1.0.0'
+    compile 'com.github.oxoooo:touch-image-view:1.0.1'
 }
 ```
 
 ## Usage
 
-```
+```xml
 <ooo.oxo.library.widget.TouchImageView
     android:id="@+id/image"
     android:layout_width="match_parent"
